@@ -1,4 +1,4 @@
-Steps to run the scraping api
+## Steps to run the scraping api
 
 1) Enable venv - This is to install dependencies in isolation
     Steps to create Virtual env
